@@ -1,0 +1,18 @@
+
+Test case #1:
+first number = 10
+second number = 5
+operation = 1
+
+Observation: Result: 10 + 5 = 15
+
+When asked to perform another calculation and recieving a yes answer it starts from the beginning (goes to the next iteration of the while loop)
+
+This was my next input:
+first number = 8
+second number = 2
+operation = 3
+
+Observation: Result: 8 * 2 = 16
+
+When asked to perform another calculation and recieving no it outputs "goodbye!" and program terminates
