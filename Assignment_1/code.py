@@ -7,7 +7,7 @@ while(another):
 
  while(True):
   try:
-   num1 = int(input("Enter the first number: "))
+   num1 = float(input("Enter the first number: "))
    break
   except ValueError:
    print("This calculator only supports integers")
@@ -17,7 +17,7 @@ while(another):
    
  while(True):
   try:
-   num2 = int(input("Enter the second number: "))
+   num2 = float(input("Enter the second number: "))
    break
   except ValueError:
    print("This calculator only supports integers")
