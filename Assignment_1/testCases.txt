@@ -16,3 +16,6 @@ operation = 3
 Observation: Result: 8 * 2 = 16
 
 When asked to perform another calculation and recieving no it outputs "goodbye!" and program terminates
+
+Test case #2:
+
