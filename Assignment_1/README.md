@@ -6,8 +6,6 @@
 The program will ask you to enter the first number.
 After that the program will ask you to enter the second number.
 
-**Note:** both numbers must be integers. You will be asked to enter the value again if you enter something other than an integer
-
 Next the program will ask you to select an operation.
 You can select the following:
 
