@@ -1,5 +1,5 @@
 
-Test case #1:
+TEST CASE #1:
 first number = 10
 second number = 5
 operation = 1
@@ -17,5 +17,48 @@ Observation: Result: 8 * 2 = 16
 
 When asked to perform another calculation and recieving no it outputs "goodbye!" and program terminates
 
-Test case #2:
+TEST CASE #2:
+first number = one
+
+At this point the program states "This calculator only supports integers" and ask the user to enter the first number again
+
+first number = 1
+second number = 2
+operation = Division
+
+The program will state "Please Enter an Integer" and prompt the user to enter an operation number
+
+operation = 4
+
+The program will output:
+
+1 / 2 = 0.5
+
+The program wil prompt the user if they want to continue or not. The user says now and the programs writes goodbye and terminates.
+
+TEST CASE #3:
+first number = 100
+second number = 0
+operation = 4
+
+The program state that you cant divide by 0 and prompt again for you to enter the operation number
+
+operation = 3
+
+The program outputs:
+
+100 * 0 = 0
+
+The program then prompts the user to perform another calculation. The user chooses no and the program says goodbye and terminates.
+
+TEST CASE #4
+first integer = 1357908642
+second integer = 2468024680
+operation = 3
+
+The program will output:
+
+1357908642 * 2468024680 = 3351352041641284560
+
+The program then prompts the user to perform another calculation. The user chooses no and the program says goodbye and terminates.
 
